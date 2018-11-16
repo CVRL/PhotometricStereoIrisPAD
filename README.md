@@ -5,6 +5,8 @@ This code implements an iris presentation attack detection (PAD) method using th
 
 ## Usage
 
+Run `runBaseMethod.m' to see an example processign and results for sample iris images.
+
 ## Further reading and method details 
 Adam Czajka, Zhaoyuan Fang, Kevin W. Bowyer, "Iris Presentation Attack Detection Based on Photometric Stereo Features," IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa Village, Hawaii, 2019
 
