@@ -9,6 +9,6 @@ This code implements an iris presentation attack detection (PAD) method using th
 Adam Czajka, Zhaoyuan Fang, Kevin W. Bowyer, "Iris Presentation Attack Detection Based on Photometric Stereo Features," IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa Village, Hawaii, 2019
 
 # Copyright notice
-The method implememnted by this code is **patent pending**, and currently we do not offer any license. Non-commercial use of this code is permitted if the following paper is cited: 
+The method implememnted by this code is **patent pending**, and currently we do not offer any license associated with this code. However, non-commercial use of this code is permitted if the following paper is cited: 
 
 *Adam Czajka, Zhaoyuan Fang, Kevin W. Bowyer, "Iris Presentation Attack Detection Based on Photometric Stereo Features," IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa Village, Hawaii, 2019*
