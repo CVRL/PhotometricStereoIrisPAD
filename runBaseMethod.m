@@ -12,6 +12,14 @@ slant = [15.00, 15.00];
 tilt = [108.886, 81.52];
 THR = 0.08;
 
+% LG_slant = [15, 15]; 
+% LG_tilt_left = [108.886, 81.52]; 
+% LG_tilt_right = [71.114, 98.472];  
+
+% AD_slant = [-20, -12]; 
+% AD_tilt_left = [115.887, 82.461]; 
+% AD_tilt_right = [64.113, 97.539];
+
 % test live / authentic samples:
 [~, v] = PhotoStereo('./sample_data/nd1S04261sam1left',slant, tilt);
 
